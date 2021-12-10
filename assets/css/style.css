@@ -1,0 +1,123 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?eo0uux');
+  src:  url('fonts/icomoon.eot?eo0uux#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?eo0uux') format('truetype'),
+    url('fonts/icomoon.woff?eo0uux') format('woff'),
+    url('fonts/icomoon.svg?eo0uux#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-caution-sign:before {
+  content: "\e900";
+}
+.icon-home2:before {
+  content: "\e901";
+}
+.icon-home3:before {
+  content: "\e902";
+}
+.icon-play:before {
+  content: "\e912";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-location2:before {
+  content: "\e948";
+}
+.icon-calendar:before {
+  content: "\e953";
+}
+.icon-printer:before {
+  content: "\e954";
+}
+.icon-user:before {
+  content: "\e971";
+}
+.icon-user-plus:before {
+  content: "\e973";
+}
+.icon-search:before {
+  content: "\e986";
+}
+.icon-cloud-download:before {
+  content: "\e9c2";
+}
+.icon-cloud-upload:before {
+  content: "\e9c3";
+}
+.icon-download2:before {
+  content: "\e9c5";
+}
+.icon-download3:before {
+  content: "\e9c7";
+}
+.icon-eye:before {
+  content: "\e9ce";
+}
+.icon-eye-blocked:before {
+  content: "\e9d1";
+}
+.icon-sun:before {
+  content: "\e9d4";
+}
+.icon-loop:before {
+  content: "\ea2d";
+}
+.icon-loop2:before {
+  content: "\ea2e";
+}
+.icon-arrow-up:before {
+  content: "\ea32";
+}
+.icon-arrow-right:before {
+  content: "\ea34";
+}
+.icon-arrow-down:before {
+  content: "\ea36";
+}
+.icon-arrow-left:before {
+  content: "\ea38";
+}
+.icon-arrow-up2:before {
+  content: "\ea3a";
+}
+.icon-arrow-right2:before {
+  content: "\ea3c";
+}
+.icon-arrow-down2:before {
+  content: "\ea3e";
+}
+.icon-arrow-left2:before {
+  content: "\ea40";
+}
+.icon-share:before {
+  content: "\ea7d";
+}
+.icon-new-tab:before {
+  content: "\ea7e";
+}
+.icon-mail:before {
+  content: "\ea83";
+}
+.icon-youtube:before {
+  content: "\ea9d";
+}
