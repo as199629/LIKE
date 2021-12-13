@@ -23,8 +23,8 @@ p{
 
 
 img{
-  max-width: 100%;
-  height: auto;
+	max-width: 100%;
+	height: auto;
 }
 
 /* nav */
@@ -586,10 +586,10 @@ li.footer-nav-item ul{
 		text-align: center;
 	}
 	.footer-nav-item{
-	   margin-bottom: 1em;
+		margin-bottom: 1em;
     }
     .footer-nav-brand{
-    	padding-bottom: 2em;
+		padding-bottom: 2em;
     }
 	li.footer-nav-item ul{
 		padding-left: 0;
@@ -601,7 +601,7 @@ li.footer-nav-item ul{
 		text-align: left;
 	}
     .footer-nav-brand{
-    	width: 300px;
+		width: 300px;
     }
 	.footer-nav-brand{
 		padding: 0 1em;
