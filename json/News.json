@@ -1,18 +1,29 @@
 [
     {
+        "NE_ID": "NEtbE8wpy7OEyHbEh4jEnTQW",
+        "NE_CONTENT": "官方網頁架設進度已抵達90%，為了提供使用者更好得體驗，我們選擇使用vue.js架設，未來將以此網站提供各位貴賓挑選磁磚使用！",
+        "NE_ONLINE": 1,
+        "NE_DEL": 0,
+        "NE_DATE": "2022/5/13",
+        "NE_TITLE": "萊克國際精品磁磚正式開幕！",
+        "NE_IMG": "https://images.unsplash.com/photo-1582426703277-6aad492eb453?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+    },
+    {
         "NE_ID": "NEKzH38aV7k2uN1MKvccn8w",
         "NE_CONTENT": "本公司裝潢進度已達80%,預計將於2022過年後將廣發邀請各方貴賓蒞臨參觀！",
-        "NE_ISONLINE": 1,
-        "NE_ISDEL": 0,
+        "NE_ONLINE": 1,
+        "NE_DEL": 0,
         "NE_DATE": "2021/12/10",
-        "NE_TITLE": "萊克國際精品磁磚2022年初正式開幕！"
+        "NE_TITLE": "萊克國際精品磁磚2022年初正式開幕！",
+        "NE_IMG": "https://images.unsplash.com/photo-1650869510383-946e981e8572?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1175&q=80"
     },
     {
         "NE_ID": "NEtbE8wpy7OEyHbEh4jEnTKA",
         "NE_CONTENT": "官方網頁架設進度已抵達10%，為了提供使用者更好得體驗，我們選擇使用vue.js架設，未來將以此網站提供各位貴賓挑選磁磚使用！",
-        "NE_ISONLINE": 1,
-        "NE_ISDEL": 0,
+        "NE_ONLINE": 1,
+        "NE_DEL": 0,
         "NE_DATE": "2021/12/09",
-        "NE_TITLE": "萊克國際精品磁磚官方網頁正式上線！"
+        "NE_TITLE": "萊克國際精品磁磚官方網頁正式上線！",
+        "NE_IMG": "https://images.unsplash.com/photo-1650837616407-c1d9fc89aaaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
     }
 ]
